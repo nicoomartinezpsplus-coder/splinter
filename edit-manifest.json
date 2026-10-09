@@ -1,0 +1,763 @@
+{
+  "version": 2,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "duration_frames": 13154,
+  "duration_seconds": 438.46666666666664,
+  "source_intervals": 38,
+  "shots": 74,
+  "blocks": [
+    {
+      "id": 0,
+      "title": "Бой с крыши",
+      "start_frame": 149817,
+      "end_frame": 150240,
+      "output_start_frame": 0,
+      "output_end_frame": 423,
+      "shots": [
+        {
+          "start_frame": 149817,
+          "end_frame": 150240,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Бой с крыши",
+      "start_frame": 150540,
+      "end_frame": 150930,
+      "output_start_frame": 423,
+      "output_end_frame": 813,
+      "shots": [
+        {
+          "start_frame": 150540,
+          "end_frame": 150930,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Бой с крыши",
+      "start_frame": 150994,
+      "end_frame": 151318,
+      "output_start_frame": 813,
+      "output_end_frame": 1137,
+      "shots": [
+        {
+          "start_frame": 150994,
+          "end_frame": 151095,
+          "view": "full"
+        },
+        {
+          "start_frame": 151095,
+          "end_frame": 151200,
+          "view": "reaction"
+        },
+        {
+          "start_frame": 151200,
+          "end_frame": 151318,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Почему гниёт дом?",
+      "start_frame": 114506,
+      "end_frame": 115077,
+      "output_start_frame": 1137,
+      "output_end_frame": 1708,
+      "shots": [
+        {
+          "start_frame": 114506,
+          "end_frame": 114786,
+          "view": "full"
+        },
+        {
+          "start_frame": 114786,
+          "end_frame": 114957,
+          "view": "reaction"
+        },
+        {
+          "start_frame": 114957,
+          "end_frame": 115077,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Дальний фраг",
+      "start_frame": 165988,
+      "end_frame": 166184,
+      "output_start_frame": 1708,
+      "output_end_frame": 1904,
+      "shots": [
+        {
+          "start_frame": 165988,
+          "end_frame": 166184,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Дальний фраг",
+      "start_frame": 166220,
+      "end_frame": 166861,
+      "output_start_frame": 1904,
+      "output_end_frame": 2545,
+      "shots": [
+        {
+          "start_frame": 166220,
+          "end_frame": 166782,
+          "view": "full"
+        },
+        {
+          "start_frame": 166782,
+          "end_frame": 166861,
+          "view": "reaction"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "И тут вмешались лаги",
+      "start_frame": 167252,
+      "end_frame": 167656,
+      "output_start_frame": 2545,
+      "output_end_frame": 2949,
+      "shots": [
+        {
+          "start_frame": 167252,
+          "end_frame": 167439,
+          "view": "full"
+        },
+        {
+          "start_frame": 167439,
+          "end_frame": 167656,
+          "view": "reaction"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "И тут вмешались лаги",
+      "start_frame": 167694,
+      "end_frame": 167840,
+      "output_start_frame": 2949,
+      "output_end_frame": 3095,
+      "shots": [
+        {
+          "start_frame": 167694,
+          "end_frame": 167840,
+          "view": "reaction"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Заход в базу",
+      "start_frame": 194337,
+      "end_frame": 194535,
+      "output_start_frame": 3095,
+      "output_end_frame": 3293,
+      "shots": [
+        {
+          "start_frame": 194337,
+          "end_frame": 194535,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Заход в базу",
+      "start_frame": 195133,
+      "end_frame": 195392,
+      "output_start_frame": 3293,
+      "output_end_frame": 3552,
+      "shots": [
+        {
+          "start_frame": 195133,
+          "end_frame": 195392,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Шкаф точно наш?",
+      "start_frame": 201168,
+      "end_frame": 201418,
+      "output_start_frame": 3552,
+      "output_end_frame": 3802,
+      "shots": [
+        {
+          "start_frame": 201168,
+          "end_frame": 201321,
+          "view": "full"
+        },
+        {
+          "start_frame": 201321,
+          "end_frame": 201418,
+          "view": "reaction"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Шкаф точно наш?",
+      "start_frame": 203740,
+      "end_frame": 204161,
+      "output_start_frame": 3802,
+      "output_end_frame": 4223,
+      "shots": [
+        {
+          "start_frame": 203740,
+          "end_frame": 203952,
+          "view": "full"
+        },
+        {
+          "start_frame": 203952,
+          "end_frame": 204161,
+          "view": "reaction"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Контакт у входа",
+      "start_frame": 206565,
+      "end_frame": 206760,
+      "output_start_frame": 4223,
+      "output_end_frame": 4418,
+      "shots": [
+        {
+          "start_frame": 206565,
+          "end_frame": 206760,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Сюрприз с ракетой",
+      "start_frame": 211065,
+      "end_frame": 211570,
+      "output_start_frame": 4418,
+      "output_end_frame": 4923,
+      "shots": [
+        {
+          "start_frame": 211065,
+          "end_frame": 211212,
+          "view": "full"
+        },
+        {
+          "start_frame": 211212,
+          "end_frame": 211570,
+          "view": "reaction"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Перестрелка вдвоём",
+      "start_frame": 247396,
+      "end_frame": 247914,
+      "output_start_frame": 4923,
+      "output_end_frame": 5441,
+      "shots": [
+        {
+          "start_frame": 247396,
+          "end_frame": 247914,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Перестрелка вдвоём",
+      "start_frame": 247983,
+      "end_frame": 248992,
+      "output_start_frame": 5441,
+      "output_end_frame": 6450,
+      "shots": [
+        {
+          "start_frame": 247983,
+          "end_frame": 248106,
+          "view": "full"
+        },
+        {
+          "start_frame": 248106,
+          "end_frame": 248235,
+          "view": "action"
+        },
+        {
+          "start_frame": 248235,
+          "end_frame": 248721,
+          "view": "full"
+        },
+        {
+          "start_frame": 248721,
+          "end_frame": 248889,
+          "view": "reaction"
+        },
+        {
+          "start_frame": 248889,
+          "end_frame": 248992,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Фраги и лут после боя",
+      "start_frame": 249273,
+      "end_frame": 249749,
+      "output_start_frame": 6450,
+      "output_end_frame": 6926,
+      "shots": [
+        {
+          "start_frame": 249273,
+          "end_frame": 249300,
+          "view": "full"
+        },
+        {
+          "start_frame": 249300,
+          "end_frame": 249438,
+          "view": "action"
+        },
+        {
+          "start_frame": 249438,
+          "end_frame": 249585,
+          "view": "full"
+        },
+        {
+          "start_frame": 249585,
+          "end_frame": 249687,
+          "view": "loot_hold",
+          "hold_source_frame": 249600
+        },
+        {
+          "start_frame": 249687,
+          "end_frame": 249749,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Взлом двери",
+      "start_frame": 250614,
+      "end_frame": 251040,
+      "output_start_frame": 6926,
+      "output_end_frame": 7352,
+      "shots": [
+        {
+          "start_frame": 250614,
+          "end_frame": 251040,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Старые знакомые",
+      "start_frame": 261152,
+      "end_frame": 261328,
+      "output_start_frame": 7352,
+      "output_end_frame": 7528,
+      "shots": [
+        {
+          "start_frame": 261152,
+          "end_frame": 261328,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Новый заход",
+      "start_frame": 262732,
+      "end_frame": 262979,
+      "output_start_frame": 7528,
+      "output_end_frame": 7775,
+      "shots": [
+        {
+          "start_frame": 262732,
+          "end_frame": 262979,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Новый заход",
+      "start_frame": 263314,
+      "end_frame": 263799,
+      "output_start_frame": 7775,
+      "output_end_frame": 8260,
+      "shots": [
+        {
+          "start_frame": 263314,
+          "end_frame": 263799,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Что в ящиках?",
+      "start_frame": 266052,
+      "end_frame": 266379,
+      "output_start_frame": 8260,
+      "output_end_frame": 8587,
+      "shots": [
+        {
+          "start_frame": 266052,
+          "end_frame": 266100,
+          "view": "full"
+        },
+        {
+          "start_frame": 266100,
+          "end_frame": 266286,
+          "view": "loot"
+        },
+        {
+          "start_frame": 266286,
+          "end_frame": 266379,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Что в ящиках?",
+      "start_frame": 269370,
+      "end_frame": 269601,
+      "output_start_frame": 8587,
+      "output_end_frame": 8818,
+      "shots": [
+        {
+          "start_frame": 269370,
+          "end_frame": 269415,
+          "view": "full"
+        },
+        {
+          "start_frame": 269415,
+          "end_frame": 269535,
+          "view": "loot"
+        },
+        {
+          "start_frame": 269535,
+          "end_frame": 269601,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Что в ящиках?",
+      "start_frame": 269644,
+      "end_frame": 269871,
+      "output_start_frame": 8818,
+      "output_end_frame": 9045,
+      "shots": [
+        {
+          "start_frame": 269644,
+          "end_frame": 269793,
+          "view": "loot"
+        },
+        {
+          "start_frame": 269793,
+          "end_frame": 269871,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Что в ящиках?",
+      "start_frame": 270133,
+      "end_frame": 270454,
+      "output_start_frame": 9045,
+      "output_end_frame": 9366,
+      "shots": [
+        {
+          "start_frame": 270133,
+          "end_frame": 270222,
+          "view": "full"
+        },
+        {
+          "start_frame": 270222,
+          "end_frame": 270321,
+          "view": "loot"
+        },
+        {
+          "start_frame": 270321,
+          "end_frame": 270454,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Ракеты по фундаменту",
+      "start_frame": 275607,
+      "end_frame": 275886,
+      "output_start_frame": 9366,
+      "output_end_frame": 9645,
+      "shots": [
+        {
+          "start_frame": 275607,
+          "end_frame": 275886,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Ракеты по фундаменту",
+      "start_frame": 275901,
+      "end_frame": 276338,
+      "output_start_frame": 9645,
+      "output_end_frame": 10082,
+      "shots": [
+        {
+          "start_frame": 275901,
+          "end_frame": 276338,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Ракеты закончились",
+      "start_frame": 276447,
+      "end_frame": 276690,
+      "output_start_frame": 10082,
+      "output_end_frame": 10325,
+      "shots": [
+        {
+          "start_frame": 276447,
+          "end_frame": 276549,
+          "view": "full"
+        },
+        {
+          "start_frame": 276549,
+          "end_frame": 276690,
+          "view": "reaction"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Ракеты закончились",
+      "start_frame": 276741,
+      "end_frame": 276926,
+      "output_start_frame": 10325,
+      "output_end_frame": 10510,
+      "shots": [
+        {
+          "start_frame": 276741,
+          "end_frame": 276926,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Ракеты закончились",
+      "start_frame": 277177,
+      "end_frame": 277303,
+      "output_start_frame": 10510,
+      "output_end_frame": 10636,
+      "shots": [
+        {
+          "start_frame": 277177,
+          "end_frame": 277303,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Финальный рейд",
+      "start_frame": 338908,
+      "end_frame": 339250,
+      "output_start_frame": 10636,
+      "output_end_frame": 10978,
+      "shots": [
+        {
+          "start_frame": 338908,
+          "end_frame": 339250,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Полные рюкзаки",
+      "start_frame": 339395,
+      "end_frame": 339783,
+      "output_start_frame": 10978,
+      "output_end_frame": 11366,
+      "shots": [
+        {
+          "start_frame": 339395,
+          "end_frame": 339510,
+          "view": "full"
+        },
+        {
+          "start_frame": 339510,
+          "end_frame": 339630,
+          "view": "loot"
+        },
+        {
+          "start_frame": 339630,
+          "end_frame": 339708,
+          "view": "reaction"
+        },
+        {
+          "start_frame": 339708,
+          "end_frame": 339783,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Полные рюкзаки",
+      "start_frame": 339946,
+      "end_frame": 340140,
+      "output_start_frame": 11366,
+      "output_end_frame": 11560,
+      "shots": [
+        {
+          "start_frame": 339946,
+          "end_frame": 340023,
+          "view": "full"
+        },
+        {
+          "start_frame": 340023,
+          "end_frame": 340140,
+          "view": "loot"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Полные рюкзаки",
+      "start_frame": 340242,
+      "end_frame": 340535,
+      "output_start_frame": 11560,
+      "output_end_frame": 11853,
+      "shots": [
+        {
+          "start_frame": 340242,
+          "end_frame": 340296,
+          "view": "full"
+        },
+        {
+          "start_frame": 340296,
+          "end_frame": 340419,
+          "view": "loot"
+        },
+        {
+          "start_frame": 340419,
+          "end_frame": 340535,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Лут в доме",
+      "start_frame": 340861,
+      "end_frame": 341232,
+      "output_start_frame": 11853,
+      "output_end_frame": 12224,
+      "shots": [
+        {
+          "start_frame": 340861,
+          "end_frame": 340968,
+          "view": "full"
+        },
+        {
+          "start_frame": 340968,
+          "end_frame": 341103,
+          "view": "loot"
+        },
+        {
+          "start_frame": 341103,
+          "end_frame": 341232,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Инвентарь заполнен",
+      "start_frame": 341329,
+      "end_frame": 341595,
+      "output_start_frame": 12224,
+      "output_end_frame": 12490,
+      "shots": [
+        {
+          "start_frame": 341329,
+          "end_frame": 341466,
+          "view": "full"
+        },
+        {
+          "start_frame": 341466,
+          "end_frame": 341595,
+          "view": "reaction"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Выход под огнём",
+      "start_frame": 342795,
+      "end_frame": 343222,
+      "output_start_frame": 12490,
+      "output_end_frame": 12917,
+      "shots": [
+        {
+          "start_frame": 342795,
+          "end_frame": 342930,
+          "view": "full"
+        },
+        {
+          "start_frame": 342930,
+          "end_frame": 343044,
+          "view": "reaction"
+        },
+        {
+          "start_frame": 343044,
+          "end_frame": 343222,
+          "view": "full"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Выход под огнём",
+      "start_frame": 343237,
+      "end_frame": 343474,
+      "output_start_frame": 12917,
+      "output_end_frame": 13154,
+      "shots": [
+        {
+          "start_frame": 343237,
+          "end_frame": 343474,
+          "view": "full"
+        }
+      ]
+    }
+  ]
+}
